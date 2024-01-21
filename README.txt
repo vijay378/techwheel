@@ -1,8 +1,7 @@
 # Prixima
 A Bootstrap multipurpose template
 
-# Demo
-- https://prixima.netlify.app/
+
 
 # Clone Project
 - https://github.com/SA7MAN/Prixima
